@@ -1,5 +1,5 @@
 cmake_minimum_required (VERSION 3.0)
-project (WaveSim)
+project (OPENGL_CPP_TEMPLATE)
 
 #C++ standard
 set(CMAKE_BUILD_TYPE RELEASE)
